@@ -8,11 +8,6 @@ func _ready():
 	$UserInterface/Retry.hide()
 
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
-	pass
-
-
 func _on_mob_timer_timeout():
 	var mob = mob_scene.instantiate()
 	var mob_spawn_location = get_node("SpawnPath/SpawnLocation")

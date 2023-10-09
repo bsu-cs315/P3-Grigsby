@@ -84,7 +84,7 @@ skeleton = NodePath("")
 curve = SubResource("Curve3D_ajl01")
 
 [node name="SpawnLocation" type="PathFollow3D" parent="SpawnPath"]
-transform = Transform3D(-0.999999, -1.89709e-06, 0.00144187, 5.68434e-14, 0.999999, 0.00131571, -0.00144187, 0.00131571, -0.999998, -14.0319, 0.0185547, -13.9002)
+transform = Transform3D(-0.999999, -1.89708e-06, 0.00144187, 5.68434e-14, 0.999999, 0.00131571, -0.00144187, 0.00131571, -0.999998, -14.0319, 0.0185547, -13.9002)
 
 [node name="MobTimer" type="Timer" parent="."]
 wait_time = 0.5

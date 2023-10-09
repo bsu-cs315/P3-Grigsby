@@ -59,7 +59,7 @@ func _physics_process(delta):
 				mob.squash()
 				target_velocity.y = bounce_impulse
 
-func _on_mob_detector_body_entered(body):
+func _on_mob_detector_body_entered(_body):
 	die()
 
 func die():

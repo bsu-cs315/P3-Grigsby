@@ -1,8 +1,3 @@
-AnimationPlayer
-AudioStreamPlayer
-Label
-ColorRect
-Control
 CollisionShape3D
 Area3D
 Timer

@@ -4,5 +4,3 @@ res://player/player.gd
 res://mob/mob.tscn
 res://mob/mob.gd
 res://main/main.gd
-res://main/ScoreLabel.gd
-res://Music/music_player.tscn

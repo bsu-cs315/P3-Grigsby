@@ -5,7 +5,7 @@ Press UP/DOWN/LEFT/RIGHT or WASD to move
 ## Third-Party Assets
 ## Project Report
 ### Reflection
-I had some difficulty completing the tutorial.  By the time I was done with it, I didn't think I had enough time to finish the other part of the project, so I decided to just submit the completed tutorial.  The biggest problem I had was I kept missing little parts of the instructions and therefore making mistakes.  I've been trying to improve my ability to read directions properly for a while though.
+I had some difficulty completing the tutorial.  By the time I was done with it, I didn't think I had enough time to finish the other part of the project, so I decided to just submit the completed tutorial.  The biggest problem I had was I kept missing little parts of the instructions and therefore making mistakes.  I've been trying to improve my ability to read directions properly for a while though.  I should get a C.
 ### Evaluation
 - [X] D-1: The repository link is submitted before the project deadline.
 - [X] C-1: The tutorial has been completed.
